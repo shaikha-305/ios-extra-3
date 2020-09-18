@@ -1,17 +1,5 @@
 
-#  تمرين - رقم
-## اشرح هنا الفكرة العامة للتمرين
-### خطوات 
-1. الخطوة الاولى
-2. الخطوة الثانية
-...
-...
+#  Extra Class! Functions 
+## In this extra lecture, we're going to write few functions, easy one, intermediate ones, and advanced ones!!
+###Follow the instructions in the playground. 
 
-### !بونص 
-1. الخطوة الاولى
-2. الخطوة الثانية
-...
-...
-
-آخر موعد لرفع الكود\
-dd/mm/yyyy
